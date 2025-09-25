@@ -1,6 +1,6 @@
 * {
-    outline: 1px solid red;
-   
+   /* outline: 1px solid red; */
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .body {
@@ -33,7 +33,9 @@
 ul {
     list-style: none;
     display: flex;
-    gap: 10px;
+    gap: 30px;
+    font-size: 20px;
+    
 }
 
 .hero-text {
@@ -47,16 +49,26 @@ ul {
 h1, p {
     margin: 0px;
 }
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 18px;
+}
 button {
     background-color: rgb(112, 112, 236);
     border-radius: 5px;
-    padding: 4px;
+    padding: 4px 7px 4px 7px;
     font-weight: 900;
+    font-size: 15px;
     
 
 }
 
 .flowers {
-    width: 220px;
+    width: 298px;
     height: auto;
+    border: 3px solid white;
 }
