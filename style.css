@@ -3,9 +3,11 @@
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.body {
+body {
     display: flex;
     flex-direction: column;
+    margin: 0px;
+   
     
 }
 
