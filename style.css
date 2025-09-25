@@ -12,13 +12,13 @@
 .header, 
 .hero {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     flex-wrap: wrap;
 
     background-color: rgb(64, 50, 77);
     color: white;
-    padding: 0px 150px 0px 150px
+    padding: 0px 150px 48px 150px
     
 }
 
@@ -27,6 +27,7 @@
 ul {
     list-style: none;
     display: flex;
+    gap: 10px;
 }
 
 .hero-text {
@@ -41,6 +42,8 @@ h1, p {
     margin: 0px;
 }
 button {
+    background-color: rgb(112, 112, 236);
+    border-radius: 5px;
 
 }
 
