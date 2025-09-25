@@ -26,3 +26,11 @@ ul {
     list-style: none;
     display: flex;
 }
+button {
+
+}
+
+.flowers {
+    width: 220px;
+    height: auto;
+}
