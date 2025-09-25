@@ -50,6 +50,9 @@ h1, p {
 button {
     background-color: rgb(112, 112, 236);
     border-radius: 5px;
+    padding: 4px;
+    font-weight: 900;
+    
 
 }
 
