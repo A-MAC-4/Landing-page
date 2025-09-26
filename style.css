@@ -74,3 +74,8 @@ button {
     height: auto;
     border: 3px solid white;
 }
+
+.photo {
+    width: 200px;
+    height: auto;
+}
