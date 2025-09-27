@@ -1,5 +1,5 @@
 * {
-   /* outline: 1px solid red; */
+    outline: 1px solid red; 
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -74,13 +74,38 @@ button {
     height: auto;
     border: 3px solid white;
 }
+
+.information{
+    background-color: rgb(110, 109, 110);
+}
+
+.title1 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: bolder;
+    padding: 48px;
+}
 .crop {
 width: 150px;
 height: 150px;
+border: 5px solid white;
 }
 .photo {
 width: 100%;
 height: 100%;
 object-fit: cover;
 
+
+
+}
+
+.infocont {
+    display: flex;
+    justify-content: center;
+    gap: 38px;
+}
+
+.info {
+
+max-width: 200px
 }
