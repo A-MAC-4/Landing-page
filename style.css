@@ -74,8 +74,13 @@ button {
     height: auto;
     border: 3px solid white;
 }
-
+.crop {
+width: 150px;
+height: 150px;
+}
 .photo {
-    width: 200px;
-    height: auto;
+width: 100%;
+height: 100%;
+object-fit: cover;
+
 }
