@@ -1,5 +1,5 @@
 * {
-    /*outline: 1px solid red; */
+    outline: 1px solid red; 
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -76,7 +76,7 @@ button {
 }
 
 .information{
-    background-color: rgb(110, 109, 110);
+    
 }
 
 .title1 {
@@ -115,4 +115,35 @@ object-fit: cover;
     flex-direction: column;
     max-width: 200px;
     gap: 20px;
+}
+
+
+   
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    
+    padding: 40px;
+     background-color: rgb(106, 101, 110);
+    align-content: center;
+}
+
+.q,
+.author {
+    
+}
+
+.q {
+    font-size: 38px;
+    font-family: cursive;
+        align-self: center;
+        max-width: 500px;
+    
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+        padding-left: 300px;
 }
