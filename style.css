@@ -129,10 +129,6 @@ object-fit: cover;
     align-content: center;
 }
 
-.q,
-.author {
-    
-}
 
 .q {
     font-size: 38px;
@@ -145,5 +141,5 @@ object-fit: cover;
 .author {
     display: flex;
     justify-content: center;
-        padding-left: 300px;
+    padding-left: 300px;
 }
