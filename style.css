@@ -143,3 +143,24 @@ object-fit: cover;
     justify-content: center;
     padding-left: 300px;
 }
+
+.c2a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    margin: 100px;
+    background-color: rgb(94, 126, 197);
+    padding: 15px;
+    border-radius: 10px;
+    width: max-content;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.c2aC {
+    display: flex;
+    justify-content: center;
+}
