@@ -88,7 +88,7 @@ button {
 .crop {
 width: 150px;
 height: 150px;
-border: 5px solid white;
+border: 5px solid rgb(64, 50, 77);
 border-radius: 5px;
 }
 .photo {
@@ -125,7 +125,7 @@ object-fit: cover;
     flex-direction: column;
     
     padding: 40px;
-     background-color: rgb(106, 101, 110);
+     background-color: rgb(119, 107, 129);
     align-content: center;
 }
 
