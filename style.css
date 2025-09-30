@@ -1,5 +1,5 @@
 * {
-    outline: 1px solid red; 
+    
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -162,5 +162,14 @@ h2 {
 
 .c2aC {
     display: flex;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    background-color: rgb(64, 50, 77);
+    color: white;
+    padding: 25px;
+    align-items: center;
     justify-content: center;
 }
